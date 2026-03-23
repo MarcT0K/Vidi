@@ -1,6 +1,6 @@
 baseURL = 'https://vidi.marct0k.github.io/'
 languageCode = 'en-us'
-title = "Vidi - internet's living room
+title = "Vidi - internet's living room"
 theme = ["github.com/joshed-io/reveal-hugo"]
 
 [markup.goldmark.renderer]
@@ -14,3 +14,7 @@ isHTML = true
 [params.reveal_hugo]
 custom_theme = "custom-theme.scss"
 custom_theme_compile = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
