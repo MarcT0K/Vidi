@@ -1,7 +1,7 @@
 baseURL = 'https://vidi.marct0k.github.io/'
 languageCode = 'en-us'
 title = "Vidi - internet's living room"
-theme = ["github.com/joshed-io/reveal-hugo"]
+theme = ["reveal-hugo"]
 
 [params]
 author = "Marc Damie"
