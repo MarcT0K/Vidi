@@ -3,15 +3,39 @@ title = "Vidi - internet's living room"
 outputs = ["Reveal"]
 +++
 
-## Vidi
 
 
-#### A manifesto for
-#### a public service (social) media.
+# Vidi
+
+<br>
+
+## A manifesto for<br>a public service (social) media.
+
+<br>
+<br>
+    
+*by Marc Damie and Thomas Yaqoubi Reboul*
+
+---
+
+# Our manifesto
 
 ---
 
 # Core principles
+
+**Video-based platform** 📺<br>
+competing with the most popular services
+
+**European infratructure** 🇪🇺<br>
+ensuring a sovereign governance 
+
+**Publicly owned infrastructure** 🏛️<br>
+operated by public broadcasters 
+
+**Cool and unique features** 😎<br>
+making it an attractive platform 
+
 
 ---
 
@@ -33,6 +57,6 @@ This is how Europe can build it: [PDF URL]
 
 # Contact us
 
-My email
+Marc Damie: marc [at] damie.eu
 
 Logo GIF
