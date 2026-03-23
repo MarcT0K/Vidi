@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = "Vidi - internet's living room"
 theme = ["reveal-hugo"]
 
-[params]
-author = "Marc Damie"
+[author]
+name = "Marc Damie"
 
 [markup.goldmark.renderer]
 unsafe = true
