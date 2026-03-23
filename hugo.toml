@@ -1,4 +1,4 @@
-baseURL = 'http://vidi.damie.eu'
+baseURL = 'https://vidi.damie.eu'
 languageCode = 'en-us'
 title = "Vidi - internet's living room"
 theme = ["reveal-hugo"]
