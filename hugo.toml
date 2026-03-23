@@ -10,3 +10,7 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+custom_theme = "custom-theme.scss"
+custom_theme_compile = true
