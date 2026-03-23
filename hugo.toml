@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = "Vidi - internet's living room"
 theme = ["github.com/joshed-io/reveal-hugo"]
 
+[params]
+author = "Marc Damie"
+
 [markup.goldmark.renderer]
 unsafe = true
 
