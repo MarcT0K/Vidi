@@ -1,10 +1,10 @@
-baseURL = 'https://vidi.marct0k.github.io/'
+baseURL = 'http://vidi.damie.eu'
 languageCode = 'en-us'
 title = "Vidi - internet's living room"
 theme = ["reveal-hugo"]
 
-[author]
-name = "Marc Damie"
+[params]
+author = "Marc Damie"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -14,10 +14,14 @@ baseName = "index"
 mediaType = "text/html"
 isHTML = true
 
-[params.reveal_hugo]
-custom_theme = "custom-theme.scss"
-custom_theme_compile = true
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[params.reveal_hugo]
+custom_theme = "custom-theme.scss"
+custom_theme_compile = true
+view = "scroll"
+scroll_progress = true
