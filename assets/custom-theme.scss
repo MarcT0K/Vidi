@@ -24,6 +24,11 @@ $heading4Size: 1em;
 
 @import "reveal-js/dist/theme/template/theme";
 
+.reveal-viewport.reveal-scroll .scrollbar .scrollbar-playhead {
+    background-color: $mainColor !important;
+    opacity: 1 !important;
+}
+
 .reveal-viewport {
     position: relative;
     background: none !important;
