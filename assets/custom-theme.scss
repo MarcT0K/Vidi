@@ -3,8 +3,8 @@
 
 $backgroundColor: #fff;
 
-$mainColor: #000;
-$headingColor: #000;
+$mainColor: #31161e;
+$headingColor: #31161e;
 
 $mainFontSize: 20px;
 $mainFont: "Source Sans Pro", Helvetica, sans-serif;
@@ -13,7 +13,7 @@ $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: none;
 $headingFontWeight: 600;
-$linkColor: #42affa;
+$linkColor: #be8a51;
 $linkColorHover: lighten($linkColor, 15%);
 $selectionBackgroundColor: lighten($linkColor, 25%);
 
@@ -24,7 +24,36 @@ $heading4Size: 1em;
 
 @import "reveal-js/dist/theme/template/theme";
 
-.reveal-viewport.reveal-scroll .scrollbar .scrollbar-playhead {
-    background-color: $mainColor !important;
-    opacity: 1 !important;
+.reveal-viewport {
+    position: relative;
+    background: none !important;
+}
+
+.reveal-viewport::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+
+    background: url("/vidi-background.png") center / cover no-repeat;
+
+    opacity: 0.5;
+
+    z-index: -1;
+}
+
+.reveal::after {
+    content: "";
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+
+    width: 120px;
+    height: 60px;
+
+    background: url("/vidi-logo.png") no-repeat center / contain;
+    pointer-events: none;
+    z-index: 10;
 }

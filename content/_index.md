@@ -4,12 +4,13 @@ outputs = ["Reveal"]
 +++
 
 
+<img src="/vidi-logo.png" style="width: 60%; height: auto;" />
 
 # Vidi
 
 <br>
 
-## A manifesto for<br>a public service (social) media.
+### A manifesto for<br>a public service (social) media.
 
 ---
 
@@ -69,7 +70,7 @@ This will enable Europe to build a sustainable, moderated and **safe** platform 
 # Why people will<br>be on Vidi?
 
 Vidi won't be "European Youtube."
-It will offer a **unique social experience** by tranforming video watching into a collective experience.
+It will offer a **unique social experience** by tranforming video watching into a collective moment.
 
 <br>
 
@@ -92,5 +93,3 @@ Vidi is not a start-up project, it is a **public service project**,<br> so it re
 
 Marc Damie (marc [at] damie.eu)<br>
 Thomas Yaqoubi Reboul (TODO)
-
-Logo GIF
