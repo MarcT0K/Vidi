@@ -76,6 +76,15 @@ It will offer a **unique social experience** by tranforming video watching into 
 While existing platforms isolate users with an endless feeds, Vidi will create a **digital living room** in which friends and family can enjoy content **together**.
 
 
+---
+
+# Where to start?
+
+Our report proposes a high-level roadmap with a key first step:<br> support from several public European institutions.
+
+<br>
+
+Vidi is not a start-up project, it is a **public service project**,<br> so it requires institutional support.
 
 ---
 
