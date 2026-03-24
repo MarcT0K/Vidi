@@ -11,14 +11,25 @@ outputs = ["Reveal"]
 
 ## A manifesto for<br>a public service (social) media.
 
-<br>
-<br>
-    
-*by Marc Damie and Thomas Yaqoubi Reboul*
-
 ---
 
 # Our manifesto
+
+This is the future of public broadcasters... TODO develop
+
+---
+
+# Technical report
+
+Vidi is the social media people need and want...
+
+<br>
+
+This is how Europe can build it...
+
+<br>
+
+[Download our report 📄](todo)
 
 ---
 
@@ -27,11 +38,17 @@ outputs = ["Reveal"]
 **Video-based platform** 📺<br>
 competing with the most popular services
 
+<br>
+
 **European infratructure** 🇪🇺<br>
 ensuring a sovereign governance 
 
+<br>
+
 **Publicly owned infrastructure** 🏛️<br>
 operated by public broadcasters 
+
+<br>
 
 **Cool and unique features** 😎<br>
 making it an attractive platform 
@@ -39,24 +56,32 @@ making it an attractive platform
 
 ---
 
-# Why people should be on Vidi?
+# Why people should<br>be on Vidi?
+
+Vidi will a **trustworthy platform** thanks to an innovative business model inspired from traditional European media.
+
+<br>
+
+This will enable Europe to build a sustainable, moderated and **safe** platform for all European citizens.
 
 ---
 
-# Why people will want to be on Vidi
+# Why people will<br>be on Vidi?
 
----
+Vidi won't be "European Youtube."
+It will offer a **unique social experience** by tranforming video watching into a collective experience.
 
-# Technical report
+<br>
 
-Vidi is the social media people need and want...
+While existing platforms isolate users with an endless feeds, Vidi will create a **digital living room** in which friends and family can enjoy content **together**.
 
-This is how Europe can build it: [PDF URL]
+
 
 ---
 
 # Contact us
 
-Marc Damie: marc [at] damie.eu
+Marc Damie (marc [at] damie.eu)<br>
+Thomas Yaqoubi Reboul (TODO)
 
 Logo GIF

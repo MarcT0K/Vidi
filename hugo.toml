@@ -25,3 +25,4 @@ custom_theme = "custom-theme.scss"
 custom_theme_compile = true
 view = "scroll"
 scroll_progress = true
+margin = 0.05
