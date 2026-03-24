@@ -5,6 +5,8 @@ theme = ["reveal-hugo"]
 
 [params]
 author = "Marc Damie"
+description = "A manifesto for a public service social media platform."
+image = "/vidi-logo.png"
 
 [markup.goldmark.renderer]
 unsafe = true
