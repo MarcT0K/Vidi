@@ -34,7 +34,7 @@ This is how Europe can build it...
 
 <br>
 
-[**Download our report** 📙](todo)
+[**Download our report** 📙](/Vidi-Technical-Report.pdf)
 
 ---
 
