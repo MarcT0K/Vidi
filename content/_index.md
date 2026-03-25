@@ -4,7 +4,7 @@ outputs = ["Reveal"]
 +++
 
 
-<img src="/vidi-logo.png" style="width: 60%; height: auto;" />
+<img src="/vidi-transparent.svg" style="width: 60%; height: auto;" />
 
 # Vidi
 
@@ -34,7 +34,7 @@ This is how Europe can build it...
 
 <br>
 
-[Download our report 📄](todo)
+[**Download our report** 📙](todo)
 
 ---
 
