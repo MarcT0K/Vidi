@@ -16,7 +16,11 @@ outputs = ["Reveal"]
 
 # Our manifesto
 
-This is the future of public broadcasters... TODO develop
+**Our public space has moved online**. But it is not public anymore. It is controlled by private platforms driven by profit.
+
+Europe built strong public broadcasters for television and radio. We now need to extend this model to social media. This is not a disruption. **It is the next step**.
+
+We call for the creation of Vidi, a new public service. **A social media owned by its citizens**. A space that is safe, transparent, and built for **the common good**.
 
 ---
 
@@ -91,5 +95,11 @@ Vidi is not a start-up project, it is a **public service project**,<br> so it re
 
 # Contact us
 
-Marc Damie (marc [at] damie.eu)<br>
-Thomas Yaqoubi Reboul (TODO)
+**Marc Damie**<br>
+✉️: marc [at] damie.eu
+
+
+<br>
+    
+**Thomas Yaqoubi Reboul**<br>
+✉️: thomas.yaqoubi-reboul [at] protonmail.com
