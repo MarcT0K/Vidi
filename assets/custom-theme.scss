@@ -62,3 +62,7 @@ $heading4Size: 1em;
     pointer-events: none;
     z-index: 10;
 }
+
+div.email > span:nth-child(2) {
+    display: none;
+}

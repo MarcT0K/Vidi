@@ -95,11 +95,10 @@ Vidi is not a start-up project, it is a **public service project**,<br> so it re
 
 # Contact us
 
-**Marc Damie**<br>
-✉️: marc [at] damie.eu
-
+**Marc Damie**
+<div class="email">✉️: <span>ma</span>rc@dam<span>mail.</span><span></span>ie<span>.e</span>u</div>
 
 <br>
     
-**Thomas Yaqoubi Reboul**<br>
-✉️: thomas.yaqoubi-reboul [at] protonmail.com
+**Thomas Yaqoubi Reboul**
+<div class="email">✉️: <span>thomas</span><span>-mail</span>.yaqoubi<span>-reboul</span>@<span>proton</span>mail<span>.co</span>m</div>
